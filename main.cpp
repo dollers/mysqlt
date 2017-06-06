@@ -1,7 +1,7 @@
 
 
 #include "mysqlc.h"
-// #include "thread.h"
+#include "thread.h"
 
 #include <pthread.h>
 using namespace std;

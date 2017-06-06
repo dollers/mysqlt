@@ -7,3 +7,10 @@
 yum install -y gcc-c++
 yum localinstall -y mysql-connector-*
 yum install -y postgresql-devel
+
+
+
+# boost_1_59_0
+./bootstrap.sh
+
+./b2 && ./b2 install
