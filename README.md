@@ -1,2 +1,0 @@
-# mysqlt
-mysql test
